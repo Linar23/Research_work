@@ -1,5 +1,4 @@
 # Research_work
 
-| gitSha        | Model         | Dataset       | Train acc     | Valid acc     | Notes         | 
-| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+Реализована статья - https://arxiv.org/abs/1810.04805
+Результаты экспериментов в pdf файле
